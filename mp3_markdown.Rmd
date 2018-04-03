@@ -1,0 +1,13 @@
+---
+title: 'Mini Project #3'
+author: "Olivia Baldwin"
+date: "4/3/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+install.packages("macleish")
+library(tidyverse)
+library(macleish)
+```
+
